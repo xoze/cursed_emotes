@@ -7,9 +7,10 @@
 :bakalar
 :belair
 :ben
+:berk
 :biggie
 :bigknob
-:blink OR :danscanlon
+:blink
 :bopped
 :bosslight
 :botcolony
@@ -27,8 +28,9 @@
 :cyborgmatt
 :dabby
 :danny
+:danscanlon
 :dave
-:dota OR :goty
+:dota
 :drew
 :facepalm
 :finaldasa
@@ -44,6 +46,7 @@
 :gamer
 :gamespot
 :gerstfield
+:goty
 :hardcore
 :healthclub
 :henry
@@ -72,7 +75,7 @@
 :mento
 :metul
 :metull
-:millertime OR :salty
+:millertime
 :mooseymcman
 :mracoon
 :mrpibb
@@ -100,6 +103,7 @@
 :rungfb
 :ryan
 :ryckert
+:salty
 :secrettape
 :shock
 :sitesdown
