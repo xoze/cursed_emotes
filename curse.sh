@@ -24,7 +24,7 @@ curse "j" "ј"
 curse "y" "у"
 curse "x" "х"
 curse "v" "v"
-curse "m" "ⅿ"
+#curse "m" "ⅿ"
 curse "g" "ɡ"
 
 while read emote
